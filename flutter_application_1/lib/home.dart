@@ -13,3 +13,13 @@ class _ikkiState extends State<ikki> {
     return const Placeholder();
   }
 }
+
+
+class bir extends StatelessWidget {
+  const bir({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
